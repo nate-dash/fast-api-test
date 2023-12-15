@@ -1,0 +1,15 @@
+uvicorn
+fastapi
+python-multipart
+pydantic
+Jinja2
+SQLAlchemy
+alembic
+tenacity
+httpx
+passlib
+python-jose
+psycopg2-binary
+gunicorn
+pytest
+requests
